@@ -7,16 +7,16 @@
 
 /* Paragraph styling */
 
-.root p:first-child {
+article p:first-child {
 	background-color: black;
 	color: white;
 }
 
-.root p:nth-child(2) {
+article p:nth-child(2) {
 	color: black;
 }
 
-.root p:last-child {
+article p:last-child {
 	color: red;
 }
 
